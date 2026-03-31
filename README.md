@@ -39,5 +39,3 @@ Screenshots of submitted applications
 Copies of my resume and cover letters
 A record of the positions applied to
 A reflection discussing decisions, performance, and career alignment
-
-All evidence of application submissions is located in the /applications/ directory.
